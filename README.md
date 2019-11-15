@@ -1,4 +1,4 @@
-# Explain Shell workflow for Alfred
+# [Explain Shell](https://explainshell.com/) workflow for Alfred
 
 Write down a command-line to see the help text that matches each argument.
 
